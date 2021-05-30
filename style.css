@@ -14,3 +14,7 @@ section {
 .col-md-4 p {
   text-align: justify;
 }
+
+.curhat .profile {
+  margin: 0px 20px 0px 20px;
+}
