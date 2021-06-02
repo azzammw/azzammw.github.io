@@ -1,6 +1,24 @@
 .jumbotron {
   padding-top: 7rem;
-  background-color: #beffc7;
+  position: relative;
+  background: url(img/bg.JPG) center center;
+  color: #fff;
+  width: 100%;
+  height: 40%;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.lead {
+  text-shadow: 2px 2px 1px rgb(0, 0, 0);
+}
+
+.display-4 {
+  text-shadow: 2px 2px 2px #000;
+}
+
+.head-img {
+  box-shadow: 0px 2px 1px 0px #000;
 }
 
 #project {
